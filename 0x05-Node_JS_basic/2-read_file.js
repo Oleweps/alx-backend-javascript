@@ -41,4 +41,3 @@ function countStudents(file) {
 }
 
 module.exports = countStudents;
-
